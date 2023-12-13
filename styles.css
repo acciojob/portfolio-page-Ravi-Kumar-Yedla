@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+#Projects{
+	color: blue;
+	border: 2px solid black;
+}
+#Skills{
+	background-color:black;
+	color:red;
+}
