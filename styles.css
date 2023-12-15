@@ -8,11 +8,16 @@ box-sizing: border-box;
 	
 	
 }
-#Projects{
+#projects{
 	color: blue;
 	border: 2px solid black;
+	margin-top:20px;
 }
-#Skills{
-	background-color:black;
+#skills{
+/* 	background-color:black; */
 	color:red;
+border: 2px solid black;
+	margin-top:20px;
+
+	
 }
